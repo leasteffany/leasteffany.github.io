@@ -1,15 +1,11 @@
 ---
-title: Uses
+title: Recipes
 date: 2023-10-24
 hide_date: true
 reading_time: false
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
-
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
-
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+Contains the recipes I have discovered to be tasty and budget-friendly. I made sure that I enjoy my food because it is within my monthly allowance, it's healthy, and it satisfies my hunger. These recipes are created by tweaking the recipes of my favorite homecooks on YouTube according to what's available in the market and what I enjoy eating. 
 
 ## Website
 

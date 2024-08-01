@@ -1,42 +1,42 @@
 ---
 # Display name
-title: 吳健雄
+title: Lea Steffany A. Labasa
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lea Steffany
+last_name: Labasa
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌱
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: exploring myself beyond the realms of science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Chemist / Experimental Cook / Fiction Reader
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: We create small projects to contribute to a larger project called life. I am happy to share my projects with you.☺️
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lealabasa1@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/youtube
+    url: https://youtube.com/@leaalatraca?si=5P0eLQ4_pwFbnvyj
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ed1.wow/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lea is in her early 20's navigating through the unchartered waters of adulthood. She dedicate this year to explore herself in new hobbies, skills, and values. This blog is also dedicated to compile her memories as she grows up and immortalize the recipes, lessons, and qoutes she wish to remember.
